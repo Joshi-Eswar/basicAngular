@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+
+
+
+
+.a{
+    margin: 0;
+    background-color: #3fb0ac;
+    height: 100px;
+    width: 100%;
+ 
+}
+.comp{
+    margin: 0;
+    color: #173e43;
+    text-align: center;
+    padding-top: 2%;
+}
